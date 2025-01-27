@@ -540,6 +540,15 @@ section .title::after {
   margin: 10px 0 7px 0;
 }
 
+.projects .carousel .card .text1 {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  font-weight: 500;
+
+}
+
+
 .projects .carousel .card img {
   height: 150px;
   width: 150px;
