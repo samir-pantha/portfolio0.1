@@ -184,6 +184,7 @@ section .title::after {
   height: 45px;
   width: 42px;
   background: rgb(225, 137, 137);
+   border:3px solid white;
   right: 30px;
   bottom: 10px;
   text-align: center;
